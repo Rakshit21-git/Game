@@ -1,0 +1,45 @@
+body{
+    background-color: #24272E;
+}
+.img1,.img2,.img3{
+    width: 300px;
+    cursor: pointer;
+    height: 300px;
+    
+}
+.header_choices{
+    margin-top: 20px;
+    border: 2px solid white;
+    color: white;
+    margin-bottom: 100px;
+    
+}
+.header_row h1{
+   width: 500px
+}
+.scores{
+    color: white;
+}
+.details{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: cursive;
+} 
+.choice:hover{
+    cursor: pointer;
+    background-color: aqua;
+    display: inline-block;
+    border-radius: 50%;
+   
+}
+.choices{
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content:space-around ;
+}
+
